@@ -13,9 +13,6 @@ I am a self-taught web and game developer currently studying at Centennial Colle
 ![](https://github-profile-trophy.vercel.app/?username=DylanDev92&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=DylanDev92&icon=5&color=12)](https://visitcount.itsvg.in)
+"If you do nothing, nothing will happen, and that's bad." - Dylan
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
