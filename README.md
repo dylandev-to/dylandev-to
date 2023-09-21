@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a self-taught web and game developer currently studying at Centennial College. At just 17 years old, I am motivated to continue developing my coding skills. With a passion for coding, I am excited to see where my skills and dedication take me in the industry. I have been coding since I was 15 years old, starting from C# as my main language to JavaScript which I am focusing right now to be a really good Full-Stack developer.
+I am a self-taught web and game developer currently studying at Centennial College. At just 18 years old, I am motivated to continue developing my coding skills. With a passion for coding, I am excited to see where my skills and dedication take me in the industry. I have been coding since I was 15 years old, starting from C# as my main language to JavaScript which I am focusing right now to be a really good Full-Stack developer.
 
 
 # 💻 Tech Stack:
