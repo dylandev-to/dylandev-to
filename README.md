@@ -21,7 +21,6 @@
             <td><a href="https://github.com/dylandev-to/GuideProtocol">GuideProtocol</a> - Basic guide for BrokeProtocol modding with Unity and C#</td>
         </tr>
     </table>
-</div>
 
 <h2></h2>
 
@@ -32,4 +31,5 @@
             <td><a href="https://github.com/dylandev-to/node-discord-token-grabber">discord-token-grabber</a> - Simple Token Grabber</td>
         </tr>
     </table>
+</div>
 </div>
