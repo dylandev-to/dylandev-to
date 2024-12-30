@@ -30,6 +30,9 @@
             <td><a href="https://github.com/dylandev-to/node-dis-file">node-dis-file</a> - File storage via Discord Webhooks</td>
             <td><a href="https://github.com/dylandev-to/node-discord-token-grabber">discord-token-grabber</a> - Simple Token Grabber</td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/dylandev-to/dis-file-gui">dis-file-gui</a> - node-dis-file GUI</td>
+        </tr>
     </table>
 </div>
 </div>
