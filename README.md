@@ -14,10 +14,10 @@
 
 -------
 
-<a href="https://github.com/dylandev-to">
+<div>
   <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=dylandev-to&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
   <img width="400em" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dylandev-to&theme=dark&hide_border=true"/>
-</a>
+</div>
 
 -------
 
