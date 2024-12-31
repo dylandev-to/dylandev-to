@@ -9,19 +9,24 @@
 
 -------
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+
 <span align="left">
 
 ```javascript
 const myTechstack = {
-  programmingLanguages: ["C", "C#", "C++", "CSS3", "Go", "HTML5", "JavaScript", "TypeScript", "Java", "Kotlin", "Lua", "Python"],
-  cloudHosting: ["AWS", "Azure", "DigitalOcean", "Firebase", "Google Cloud", "OVH", "Vercel", "Vultr"],
-  frameworksLibraries: [".NET", "Chart.js", "Electron.js", "Express.js", "JavaFX", "jQuery", "JWT", "Next.js", "React", "React Native", "Socket.io", "TailwindCSS", "Three.js", "Vite"],
-  webServersTools: ["Nginx"],
-  databases: ["Firebase", "MongoDB", "MySQL", "SQLite"],
-  designGraphics: ["Figma", "Aseprite", "Blender", "Canva", "Krita"],
-  versionControl: ["Git", "GitHub"],
-  apisTools: ["Postman", "ThunderClient"],
-  gameEngines: ["Unity", "Unreal Engine"]
+    programmingLanguages: ["C", "C#", "C++", "CSS3", "Go", "HTML5", "JavaScript", "TypeScript",
+        "Java", "Kotlin", "Lua", "Python"],
+    cloudHosting: ["AWS", "Azure", "DigitalOcean", "Firebase", "Google Cloud",
+        "OVH", "Vercel", "Vultr"],
+    frameworksLibraries: [".NET", "Chart.js", "Electron.js", "Express.js", "JavaFX", "jQuery",
+        "JWT", "Next.js", "React", "React Native", "Socket.io", "TailwindCSS", "Three.js", "Vite"],
+    webServersTools: ["Nginx"],
+    databases: ["Firebase", "MongoDB", "MySQL", "SQLite"],
+    designGraphics: ["Figma", "Aseprite", "Blender", "Canva", "Krita"],
+    versionControl: ["Git", "GitHub"],
+    apisTools: ["Postman", "ThunderClient"],
+    gameEngines: ["Unity", "Unreal Engine"]
 };
 ```
 </span>
