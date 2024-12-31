@@ -32,6 +32,7 @@
         </tr>
         <tr>
             <td><a href="https://github.com/dylandev-to/dis-file-gui">dis-file-gui</a> - node-dis-file GUI</td>
+            <td><a href="https://github.com/dylandev-to/electron-react-tailwind-boilerplate">electron-react-tailwind-boilerplate</a> - Boilerplate for Electron Apps</td>
         </tr>
     </table>
 </div>
