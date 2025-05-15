@@ -22,12 +22,13 @@ const myTechstack = {
     cloudHosting: ["AWS", "Azure", "DigitalOcean", "Firebase", "Google Cloud",
         "OVH", "Vercel", "Vultr"],
     frameworksLibraries: [".NET", "Chart.js", "Electron.js", "Express.js", "JavaFX", "jQuery",
-        "JWT", "Next.js", "React", "React Native", "Socket.io", "TailwindCSS", "Three.js", "Vite"],
-    webServersTools: ["Nginx"],
+        "JWT", "Next.js", "React", "React Native", "Socket.io", "TailwindCSS", "Three.js", "Vite", "Vue", "Quasar", "Dygraph"],
+    webServersTools: ["Nginx", "PM2", "Docker", "Kubernetes"],
     databases: ["Firebase", "MongoDB", "MySQL", "SQLite"],
     designGraphics: ["Figma", "Aseprite", "Blender", "Canva", "Krita"],
     versionControl: ["Git", "GitHub"],
-    apisTools: ["Postman", "ThunderClient"],
+    devOpsCICD: ["Docker", "GitHub Actions", "CI/CD"],
+    apisTools: ["Postman", "ThunderClient", "Ollama", "OpenAI"],
     gameEngines: ["Unity", "Unreal Engine"]
 };
 ```
